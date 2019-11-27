@@ -1,7 +1,7 @@
 node {
     
 stage('Git CheckOut') {    
-git url: 'https://github.com/amitvashisttech/devops-mindtree-20191115.git'
+git url: 'https://github.com/Radhika-cloud/devops-mindtree-20191115.git'
 }
 
 
