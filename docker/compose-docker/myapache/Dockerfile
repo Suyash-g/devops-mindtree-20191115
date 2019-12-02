@@ -1,8 +1,8 @@
-# Base Image
+ # Base Image
 FROM ubuntu:16.04
 
 # Maintainer
-MAINTAINER Radhika060 <radhikaswamy34@gmail.com>
+MAINTAINER Amit Vashist <amitvashist7@gmail.com>
 
 # Apt-Get Repo
 RUN apt-get update
