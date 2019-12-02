@@ -2,7 +2,7 @@
 FROM ubuntu:16.04
 
 # Maintainer
-MAINTAINER Radhika060 <rdhikaswamy34@gmail.com>
+MAINTAINER Radhika060 <radhikaswamy34@gmail.com>
 
 # Apt-Get Repo
 RUN apt-get update
