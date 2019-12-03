@@ -1,9 +1,9 @@
 variable "key_name" {
-  default = "Terraform_demo"
+  default = "thesuyashgupta"
 }
 
 variable "pvt_key" {
-  default = "/var/lib/jenkins/Terraform_demo.pem"
+  default = "var/lib/jenkins/instanceKeyHold/thesuyashgupta.pem"
 }
 
 variable "us-east-zones" {
@@ -11,5 +11,5 @@ variable "us-east-zones" {
 }
 
 variable "sg-id" {
-  default = "sg-075ca3a5467ab6a3e"
+  default = "sg-0908a4b4712e38647"
 }
