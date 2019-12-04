@@ -1,9 +1,9 @@
 variable "key_name" {
-  default = "thesuyashgupta"
+  default = "the-suyashgupta"
 }
 
 variable "pvt_key" {
-  default = "/var/lib/jenkins/instanceKeyHold/thesuyashgupta.pem"
+  default = "/var/lib/jenkins/instanceKeyHold/the-suyashgupta.pem"
 }
 
 variable "us-east-zones" {
